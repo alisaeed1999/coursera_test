@@ -6,7 +6,8 @@
   padding: 0;
 }
 
-h1 {
+#h {
+  padding-top: 25px;
   margin-bottom: 25px;
   margin-top: 25px;
   text-shadow: 0px 0px 3px chocolate;
@@ -41,7 +42,7 @@ h1 {
   margin-top: 0;
   margin-bottom: 0;
   line-height: .5;
-  text-align: center;
+  text-align: left;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
